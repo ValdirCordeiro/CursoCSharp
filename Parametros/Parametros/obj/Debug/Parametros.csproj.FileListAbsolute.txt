@@ -1,0 +1,6 @@
+E:\Programas\Curso C#\Parametros\Parametros\bin\Debug\Parametros.exe.config
+E:\Programas\Curso C#\Parametros\Parametros\bin\Debug\Parametros.exe
+E:\Programas\Curso C#\Parametros\Parametros\bin\Debug\Parametros.pdb
+E:\Programas\Curso C#\Parametros\Parametros\obj\Debug\Parametros.csprojResolveAssemblyReference.cache
+E:\Programas\Curso C#\Parametros\Parametros\obj\Debug\Parametros.exe
+E:\Programas\Curso C#\Parametros\Parametros\obj\Debug\Parametros.pdb

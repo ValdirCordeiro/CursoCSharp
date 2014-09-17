@@ -1,0 +1,10 @@
+C:\VisualStudio\Mod-03__Ex-04\bin\Debug\Mod-03__Ex-04.exe.config
+C:\VisualStudio\Mod-03__Ex-04\bin\Debug\Mod-03__Ex-04.exe
+C:\VisualStudio\Mod-03__Ex-04\bin\Debug\Mod-03__Ex-04.pdb
+C:\VisualStudio\Mod-03__Ex-04\obj\Debug\Mod-03__Ex-04.exe
+C:\VisualStudio\Mod-03__Ex-04\obj\Debug\Mod-03__Ex-04.pdb
+E:\Programas\Curso C#\Exercícios\Modulo 3\Mod-03__Ex-04\bin\Debug\Mod-03__Ex-04.exe.config
+E:\Programas\Curso C#\Exercícios\Modulo 3\Mod-03__Ex-04\obj\Debug\Mod-03__Ex-04.exe
+E:\Programas\Curso C#\Exercícios\Modulo 3\Mod-03__Ex-04\obj\Debug\Mod-03__Ex-04.pdb
+E:\Programas\Curso C#\Exercícios\Modulo 3\Mod-03__Ex-04\bin\Debug\Mod-03__Ex-04.exe
+E:\Programas\Curso C#\Exercícios\Modulo 3\Mod-03__Ex-04\bin\Debug\Mod-03__Ex-04.pdb

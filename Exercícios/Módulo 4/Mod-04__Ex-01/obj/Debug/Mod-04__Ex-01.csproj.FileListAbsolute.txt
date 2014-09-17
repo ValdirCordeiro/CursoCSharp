@@ -1,0 +1,12 @@
+C:\VisualStudio\Mod-04__Ex-01\bin\Debug\Mod-04__Ex-01.exe.config
+C:\VisualStudio\Mod-04__Ex-01\bin\Debug\Mod-04__Ex-01.exe
+C:\VisualStudio\Mod-04__Ex-01\bin\Debug\Mod-04__Ex-01.pdb
+C:\VisualStudio\Mod-04__Ex-01\obj\Debug\Mod-04__Ex-01.csprojResolveAssemblyReference.cache
+C:\VisualStudio\Mod-04__Ex-01\obj\Debug\Mod-04__Ex-01.exe
+C:\VisualStudio\Mod-04__Ex-01\obj\Debug\Mod-04__Ex-01.pdb
+E:\Programas\Curso C#\Exercícios\Módulo 4\Mod-04__Ex-01\bin\Debug\Mod-04__Ex-01.exe.config
+E:\Programas\Curso C#\Exercícios\Módulo 4\Mod-04__Ex-01\obj\Debug\Mod-04__Ex-01.exe
+E:\Programas\Curso C#\Exercícios\Módulo 4\Mod-04__Ex-01\obj\Debug\Mod-04__Ex-01.pdb
+E:\Programas\Curso C#\Exercícios\Módulo 4\Mod-04__Ex-01\bin\Debug\Mod-04__Ex-01.exe
+E:\Programas\Curso C#\Exercícios\Módulo 4\Mod-04__Ex-01\bin\Debug\Mod-04__Ex-01.pdb
+E:\Programas\Curso C#\Exercícios\Módulo 4\Mod-04__Ex-01\obj\Debug\Mod-04__Ex-01.csprojResolveAssemblyReference.cache

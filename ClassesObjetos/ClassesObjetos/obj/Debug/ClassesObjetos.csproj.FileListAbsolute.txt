@@ -1,0 +1,6 @@
+E:\Programas\Curso C#\ClassesObjetos\ClassesObjetos\bin\Debug\ClassesObjetos.exe.config
+E:\Programas\Curso C#\ClassesObjetos\ClassesObjetos\bin\Debug\ClassesObjetos.exe
+E:\Programas\Curso C#\ClassesObjetos\ClassesObjetos\bin\Debug\ClassesObjetos.pdb
+E:\Programas\Curso C#\ClassesObjetos\ClassesObjetos\obj\Debug\ClassesObjetos.csprojResolveAssemblyReference.cache
+E:\Programas\Curso C#\ClassesObjetos\ClassesObjetos\obj\Debug\ClassesObjetos.exe
+E:\Programas\Curso C#\ClassesObjetos\ClassesObjetos\obj\Debug\ClassesObjetos.pdb

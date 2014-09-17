@@ -1,0 +1,9 @@
+E:\Programas\Curso C#\Hello World\Hello World1\Hello World1\bin\Debug\Hello World1.exe.config
+E:\Programas\Curso C#\Hello World\Hello World1\Hello World1\bin\Debug\Hello World1.exe
+E:\Programas\Curso C#\Hello World\Hello World1\Hello World1\bin\Debug\Hello World1.pdb
+E:\Programas\Curso C#\Hello World\Hello World1\Hello World1\obj\Debug\Hello World1.csprojResolveAssemblyReference.cache
+E:\Programas\Curso C#\Hello World\Hello World1\Hello World1\obj\Debug\Hello World1.exe
+E:\Programas\Curso C#\Hello World\Hello World1\Hello World1\obj\Debug\Hello World1.pdb
+E:\Programas\Curso C#\Hello World\Hello World1\bin\Debug\Hello World1.exe.config
+E:\Programas\Curso C#\Hello World\Hello World1\obj\Debug\Hello World1.exe
+E:\Programas\Curso C#\Hello World\Hello World1\obj\Debug\Hello World1.pdb
